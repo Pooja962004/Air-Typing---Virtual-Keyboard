@@ -11,7 +11,7 @@ A touchless, gesture-controlled virtual keyboard that lets you type in mid-air u
 
 Below is a screenshot capture of the system in action—the virtual keyboard overlay appears in full-screen with live *WPM* and *Accuracy* displayed in the corner:
 
-![Air-Typing Virtual Keyboard Output](./Output sample.png)
+![Air-Typing Virtual Keyboard Output](./output sample.jpg)
 
 ---
 
